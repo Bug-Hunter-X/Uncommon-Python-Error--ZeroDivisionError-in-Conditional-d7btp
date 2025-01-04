@@ -1,0 +1,1 @@
+This repository demonstrates a subtle and uncommon error in Python programming involving a ZeroDivisionError that only occurs under a specific condition. The primary file, `bug.py`, contains the buggy code. The solution, in `bugSolution.py`, addresses the error appropriately.
